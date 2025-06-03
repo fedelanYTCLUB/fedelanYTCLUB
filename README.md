@@ -34,7 +34,7 @@
 <div align="center">
   <h2 style="background: linear-gradient(to right, #FF0000, #00FF00, #0000FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; font-weight: bold; margin: 20px 0;">☔ ¡ÚNETE AL CANAL OFICIAL! ☔</h2>
   
-  <p style="color: #FF9900; font-size: 18px; margin-bottom: 15px;"> *CANAL POBRE XD* </p>
+  <p style="color: #FF9900; font-size: 18px; margin-bottom: 15px;"> CANAL POBRE XD </p>
   
   <a href="https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n" style="display: inline-block; background: linear-gradient(to right, #25D366, #128C7E); color: white; font-weight: bold; padding: 12px 30px; text-decoration: none; border-radius: 30px; box-shadow: 0 4px 10px rgba(37, 211, 102, 0.5); transition: all 0.3s ease;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/768px-WhatsApp.svg.png" height="20px" style="vertical-align: middle; margin-right: 8px;">
