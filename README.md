@@ -11,7 +11,7 @@
 </details>
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/FedelanYTCLUB/count.svg" />
+  <img src="https://profile-counter.glitch.me/fedelanYTCLUB/count.svg" />
   <p>👁️ Visitantes del Repositorio 👁️</p>
 </div>
 
