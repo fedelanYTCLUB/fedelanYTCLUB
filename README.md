@@ -15,7 +15,7 @@
 </details>
 
 <div align="center">
-  <h2 style="background: linear-gradient(to right, #FF0000, #00FF00, #0000FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; font-weight: bold; margin: 20px 0;">📢 ¡ÚNETE AL CANAL OFICIAL DEL BOT ASTA! 📢</h2>
+  <h2 style="background: linear-gradient(to right, #FF0000, #00FF00, #0000FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; font-weight: bold; margin: 20px 0;">☔ ¡ÚNETE AL CANAL OFICIAL! ☔</h2>
   
   <p style="color: #FF9900; font-size: 18px; margin-bottom: 15px;">En nuestro canal estaremos compartiendo todas las novedades, actualizaciones y tips exclusivos</p>
   
