@@ -1,12 +1,39 @@
-- 👋 Hi, I’m @fedelanYTCLUB
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## *HOLA SOY EDITOR DE BOT  DE A POCO VOY APRENDIENDO*
 
-<!---
-fedelanYTCLUB/fedelanYTCLUB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+</details>
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/FedelanYTCLUB/count.svg" />
+  <p>👁️ Visitantes del Repositorio 👁️</p>
+</div>
+
+</details>
+
+----
+
+</details>
+
+<div align="center">
+  <h2 style="background: linear-gradient(to right, #FF0000, #00FF00, #0000FF); -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-size: 30px; font-weight: bold; margin: 20px 0;">📢 ¡ÚNETE AL CANAL OFICIAL DEL BOT ASTA! 📢</h2>
+  
+  <p style="color: #FF9900; font-size: 18px; margin-bottom: 15px;">En nuestro canal estaremos compartiendo todas las novedades, actualizaciones y tips exclusivos</p>
+  
+  <a href="https://whatsapp.com/channel/0029Vb5oaHFCBtxIGWefdp0n" style="display: inline-block; background: linear-gradient(to right, #25D366, #128C7E); color: white; font-weight: bold; padding: 12px 30px; text-decoration: none; border-radius: 30px; box-shadow: 0 4px 10px rgba(37, 211, 102, 0.5); transition: all 0.3s ease;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/768px-WhatsApp.svg.png" height="20px" style="vertical-align: middle; margin-right: 8px;">
+    ACCEDER AL CANAL AHORA
+  </a>
+  
+  <p style="color: #FF5252; font-size: 16px; margin-top: 15px;">💎 No te pierdas ninguna actualización importante 💎</p>
+</div>
+
+<div align="center">
+  <h2>👑 CREADOR DEL BOT 👑</h2>
+  <a href="https://github.com/FedelanYTCLUB">
+    <img src="https://github.com/FedelanYTCLUB.png" width="250" height="250" alt="ғᴇᴅᴇʟᴀɴʏᴛ" style="border-radius: 50%; border: 5px solid gold; box-shadow: 0 0 20px rgba(255, 215, 0, 0.7);">
+  </a>
+  <h3>ғᴇᴅᴇʟᴀɴʏᴛ</h3>
+  <a href="https://github.com/FedelanYTCLUB">
+    <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</div>
